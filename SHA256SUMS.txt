@@ -1,0 +1,2 @@
+178a59044d038fbca61cee797ee2dfaaa45f0b4366b2af80cb274ebcc5813694  bidvault.html
+88e72ba0a457388e282ab439f90350bca79fa663ecc39cc34db299b5c7b32183  bidvault-demo.html
